@@ -1,0 +1,7 @@
+{
+  "id":"jojo","name":"JoJo's Bizarre","author":"Nx4real","version":"1.0",
+  "suffix":"-jojo","color":"#bf5af2",
+  "icons":["finder","launchpad","settings","safari","messages",
+           "calendar","photos","reminders","notes","music",
+           "appstore","notion","craft","trash"]
+}
