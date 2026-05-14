@@ -1,0 +1,6 @@
+[
+  {"id":"blue",   "name":"Blue",          "color":"#0a84ff","suffix":"-blue"},
+  {"id":"red",    "name":"Red",           "color":"#ff453a","suffix":"-red"},
+  {"id":"jojo",   "name":"JoJo's Bizarre","color":"#bf5af2","suffix":"-jojo","thumb":"jojo/preview.png"},
+  {"id":"batman", "name":"Batman",        "color":"#1c1c1e","suffix":"-batman","thumb":"batman/preview.png"}
+]
