@@ -1,0 +1,7 @@
+{
+  "id":"blue","name":"Blue","author":"Nx4real","version":"1.0",
+  "suffix":"-blue","color":"#0a84ff",
+  "icons":["finder","launchpad","settings","safari","messages",
+           "calendar","photos","reminders","notes","music",
+           "appstore","notion","craft","trash"]
+}
