@@ -6,3 +6,7 @@ link : https://macostahoeweb.vercel.app/
 ---
 repository link : https://github.com/ulquiorra-cifer-4/Macos_Tahoe-web.git
 ---
+![macos menubar screen](1.png)
+---
+![macos icons screen](2.png)
+---
