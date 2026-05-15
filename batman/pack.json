@@ -1,0 +1,7 @@
+{
+  "id":"batman","name":"Batman","author":"Nx4real","version":"1.0",
+  "suffix":"-batman","color":"#1c1c1e",
+  "icons":["finder","launchpad","settings","safari","messages",
+           "calendar","photos","reminders","notes","music",
+           "appstore","notion","craft","trash"]
+}
